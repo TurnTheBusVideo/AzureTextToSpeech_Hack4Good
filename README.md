@@ -2,4 +2,5 @@
 
 It contains 2 projects. 
 1. Speech to Speech translation (from english to hindi)
+   this also contains prosody changes (attaching/detaching audio file from video)
 2. Hindi Text to speech conversion.
